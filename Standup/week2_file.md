@@ -1,7 +1,12 @@
 ---
 layout: page
 title: week1_standup
-permalink: /standup_for_class/Standup/week2_standup/
+permalink: /Standup/week2_standup/
 ---
 
-#Standup_week2
+#Standup_week2:
+
+1. Contributed with talking to Stakeholder, communicated with group member about structuring the interface, started editing requirements document, created ghantt chat.
+2. Planned to start doing research on AI module integrity to the software, frontend coding examples for the interface design and backend coding examples.
+3. The technical challenges faced during the process is that multiple user editiability is not being opted and bugging out authentication errors.
+4. 

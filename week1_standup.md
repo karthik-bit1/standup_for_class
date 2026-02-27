@@ -1,7 +1,7 @@
 ---
 layout: page
 title: week1_standup
-permalink: /standup_for_class/week1_standup/
+permalink: /week1_standup/
 ---
 
 # Stand-up Reflection: 

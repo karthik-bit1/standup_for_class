@@ -1,7 +1,7 @@
 ---
 layout: page
-title: week1_standup
-permalink: /Standup/week2_standup/
+title: week2_standup
+permalink: /Standup/week2_file/
 ---
 
 #Standup_week2:
